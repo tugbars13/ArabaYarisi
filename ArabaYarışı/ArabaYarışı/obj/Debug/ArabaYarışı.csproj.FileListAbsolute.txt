@@ -1,0 +1,10 @@
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\bin\Debug\ArabaYarışı.exe.config
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\bin\Debug\ArabaYarışı.exe
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\bin\Debug\ArabaYarışı.pdb
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\obj\Debug\ArabaYarışı.csproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\obj\Debug\ArabaYarışı.Form1.resources
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\obj\Debug\ArabaYarışı.Properties.Resources.resources
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\obj\Debug\ArabaYarışı.csproj.GenerateResource.cache
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\obj\Debug\ArabaYarışı.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\obj\Debug\ArabaYarışı.exe
+C:\Users\WIN10\source\repos\ArabaYarışı\ArabaYarışı\obj\Debug\ArabaYarışı.pdb
